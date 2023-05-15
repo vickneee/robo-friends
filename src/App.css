@@ -2,11 +2,11 @@
   text-align: center;
 }
 
-h1 {
+.App-h1 {
   color: orangered;
 }
 
-p {
+.App-header {
   font-size: 20px;
 }
 
