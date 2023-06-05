@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Righteous";
+  src: local("Righteous"),
+    url(Righteous/Righteous-Regular.ttf) format("truetype");
+}
+
+h1 {
+  font-family: Righteous, Arial, serif;
+  letter-spacing: 6px;
+}
