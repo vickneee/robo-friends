@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 # robo-friends
 
-
 A simple and fun robo-friend app using React.js. Responsive.
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
