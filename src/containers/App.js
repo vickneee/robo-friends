@@ -39,7 +39,7 @@ class App extends Component {
     } else {
       return (
         <div className="tc">
-          <h1 className="f1 ma4 animate__animated animate__heartBeat animate__delay-3s animate__slower">RoboFriends</h1>
+          <h1 className="f2 ma4 animate__animated animate__heartBeat animate__delay-3s animate__slower">RoboFriends</h1>
           <SearchBox searchChange={this.onSearchChange} />
           <Scroll>
             <CardList robots={filteredRobots} />
