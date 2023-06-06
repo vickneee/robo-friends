@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+vcs.xml
+robo-friends.iml
+modules.xml
+Project_Default.xml
